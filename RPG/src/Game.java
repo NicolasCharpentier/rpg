@@ -7,7 +7,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class Game{
-	
 	JFrame fen = new JFrame("Menu");
 	
 	// Tout les panels
